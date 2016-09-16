@@ -88,4 +88,4 @@ while True:
                 bbb = False
     if bbb == True and aaa== False:
         print "tie"
-        exit()
+       exit()
